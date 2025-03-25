@@ -1,2 +1,1 @@
-# devopssweden.github.io
-DevOps Sweden
+# DevOps Sweden
